@@ -1,32 +1,50 @@
-# portfolio_githubthemes
+## ABOUT ME
+Analytical, organized and detail-oriented accountant with GAAP expertise and experience in the full spectrum
+of public accounting. Collaborative team player with ownership mentality and a track record of delivering the
+highest quality strategic solutions to resolve challenges and propel business growth.
 
-## SKILLS
-- Technical: Python (Numpy, Pandas), SQL, Tableau, MySQL, S&P Capital 1Q, Bestlink, Microsoft Excel (Pivot Table, VLOOKOF
-inancial Modeling and Forecasting), SAS, PowerPoint, Power BI, SQL. Server, JavaScript, Java, CSS, C, R, HTMI
-- Language: Native proficiency in English and Mandarin
+## EXPERIENCE
+**Accountant | Trey Research | San Francisco, CA      20XX – Present**
+Working in a mid-sized public accounting firm to provide professional accounting services for individuals and
+business clients. Provide full range of services, include income tax preparation, audit support, preparation of
+financial statements, pro forma budgeting, general ledger accounting, and bank reconciliation.
+
+**Bookkeeper | Bandter Real Estate | Berkeley, CA      20XX – 20XX**
+Inhouse bookkeeper for a real estate development company. Maintained financial books, tracked expenses,
+prepared, and submitted invoices, and oversaw payroll.
+
+**Accounting Intern | Olson Harris Ltd. | Vallejo, CA      December 20XX – April 20XX**
+Assisted with payroll and Pensions service management for 150+ employees. Prepared invoices for more
+than 200 clients. Assisted with bill payments, records organization and preparation, and other office duties to
+support financial and accounting operations.
+
+## PROJECTS
+- **Data-Driven EEG Band Discovery with Decision Trees**
+Developed objective strategy for discovering optimal EEG bands based on signal power spectra using Python. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+
+- **Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales**
+Used Matlab to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
 ## EDUCATION
-**Univeristy of California, Berkeley**
-- B.A. in Data Science /B.A. in Economis; Honors (GPA: 3.95/4.00) Summa cum lande
-Aug 2019 - May 2023
-- Program and Awards: Phi Beta Kappa, L'Oréal's Financial Case Competition #1; Goldman Sachs Insight Series, JP Morgan Offer
-- Leadership: Srudent leader at ASUC: Spearheaded the marketing initiatives for the largest student org on campus, reaching 2,000+ audience. Performed autonomous rescarch to analyze stock sentiments predicting GameStop stock movements <2% error rate.
+**Bachelor of Science in Accounting, Minor in Business Administration | Bellows College**
+**June 20XX**
+- Distinguished member of university’s Accounting Society
+- Relevant coursework: Advanced Financial Accounting and Reporting
+- GPA: 3.8
 
-## WORK EXPERIENCE
-**The Walt Disney Company**              Oct 2023 - Present
-[Business Strategy Analys (ESPN) - Corporate Finance]
-- Financial Analysis: Assessed financial performance through liquidity, leverage, EBITDA, ROl, and FCF in Excel to deliver over 10+|
-PowerPoint presentations to the Board of Directors that helped inform strategic decision-making to increase profitability.
-- Statistical Modeling: Built a statistic and cost-revenue analysis model in Excel to indicate past business performance and identify growth and cost drivers, resulting in a 5%-10% reduction in labor and process costs.
-- Investment Strategy: Proposed 5 investment strategies by identifying ESPN's programming rights problems while searching for opportunities for improvement to recommendations to the board, which 2 were adopted that could save up to $1.3m.
-- Dashboard Development: Developed an interactive dashboard by automating data retrieval connected to GCP with SQL. for real-time updates and integrating customizable filters and fearures such as region, channel, product line, revenue, delivery times, etc. to allow for granular analysis by period, which drived critical business insights.
-- Financial Planning: Collaborated with business stakeholders to build out the ESPN 5-year financial plans based on historical forecasts and valuations to story-tell strategic growth narratives for the Board of Directors on pivotal investment decisions and corporate strategy.
+## SKILLS
+- Microsoft NAV Dynamics
+- Cashflow planning & management
+- State & federal tax codes
+- Bookkeeping
+- Exceptional communication
+- Technical: Python (Numpy, Pandas), SQL, Tableau, MySQL, S&P Capital 1Q, Bestlink, Microsoft Excel (Pivot Table, VLOOKOF
+inancial Modeling and Forecasting), SAS, PowerPoint, Power BI, SQL. Server, JavaScript, Java, CSS, C, R, HTMI
+- Language: Native proficiency in English, Mandarin and German.
 
-**Meridian Capital**                      May 2022 - Aug 2023
-[Imestment Banking Analyst (Internship from May 2022 - Ang 2023)]
-- Business Intelligence: Performed financial due diligence for a client in the technology sector, analyzing financial statements to inform strategic and financial investment decisions to optimize risks and returns by calculating ROI using DCF, CCA, and precedent transactions,
-producing a football field for a visual comparison of valuation ranges and sensitivity table to assess the impact of assumptions.
-- Marketing Research: Identified client's technology market trends and the competitive landscape by applying Porter's 5 Forces
-framework to derive market share and determine growth trajectories.
-- M&A Valuation: Applied valuation models including DCF, M& model, and public comps in Excel for 3 rechnology M&A deals,
-which were praised for the robust analysis and aesthetic presentation.
+## PUBLICATIONS
+- Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
+- Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
+- Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
+- Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
+- Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
