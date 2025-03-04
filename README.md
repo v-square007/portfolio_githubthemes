@@ -1,3 +1,5 @@
+![imgae alt](https://github.com/v-square007/portfolio_githubthemes/blob/040f58cb63f3f05db6f2ea992f2728e10c9732d8/Gemini_Generated_Image_x8njc2x8njc2x8nj.jpeg)
+
 ## ABOUT ME
 Analytical, organized and detail-oriented accountant with GAAP expertise and experience in the full spectrum
 of public accounting. Collaborative team player with ownership mentality and a track record of delivering the
