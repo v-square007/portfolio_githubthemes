@@ -1,4 +1,3 @@
-![imgae alt](https://github.com/v-square007/portfolio_githubthemes/blob/040f58cb63f3f05db6f2ea992f2728e10c9732d8/Gemini_Generated_Image_x8njc2x8njc2x8nj.jpeg)
 
 ## ABOUT ME
 Analytical, organized and detail-oriented accountant with GAAP expertise and experience in the full spectrum
@@ -6,16 +5,16 @@ of public accounting. Collaborative team player with ownership mentality and a t
 highest quality strategic solutions to resolve challenges and propel business growth.
 
 ## EXPERIENCE
-**Accountant | Trey Research | San Francisco, CA      20XX – Present**
+- **Accountant | Trey Research | San Francisco, CA      20XX – Present**
 Working in a mid-sized public accounting firm to provide professional accounting services for individuals and
 business clients. Provide full range of services, include income tax preparation, audit support, preparation of
 financial statements, pro forma budgeting, general ledger accounting, and bank reconciliation.
 
-**Bookkeeper | Bandter Real Estate | Berkeley, CA      20XX – 20XX**
+- **Bookkeeper | Bandter Real Estate | Berkeley, CA      20XX – 20XX**
 Inhouse bookkeeper for a real estate development company. Maintained financial books, tracked expenses,
 prepared, and submitted invoices, and oversaw payroll.
 
-**Accounting Intern | Olson Harris Ltd. | Vallejo, CA      December 20XX – April 20XX**
+- **Accounting Intern | Olson Harris Ltd. | Vallejo, CA      December 20XX – April 20XX**
 Assisted with payroll and Pensions service management for 150+ employees. Prepared invoices for more
 than 200 clients. Assisted with bill payments, records organization and preparation, and other office duties to
 support financial and accounting operations.
